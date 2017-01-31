@@ -1,0 +1,283 @@
+[
+    {
+        "productId": 1,
+        "productName": "Sharpie Bird",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Sharpie",
+        "price": 10.00,
+        "level": 2.2,
+        "imageUrl": "./app/assets/images/Sharpie_Bird.png"
+    },
+    {
+        "productId": 2,
+        "productName": "Sharpie Giraffe",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Sharpie",
+        "price": 10.00,
+        "level": 2.2,
+        "imageUrl": "./app/assets/images/Sharpie_Giraffe.png"
+    },
+    {
+        "productId": 3,
+        "productName": "Color Pencil Cherry",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Color Pencil",
+        "price": 10.00,
+        "level": 2.2,
+        "imageUrl": "./app/assets/images/ColorPencil_Cherry.png"
+    },
+    {
+        "productId": 4,
+        "productName": "Color Pencil Eggplant",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Color Pencil",
+        "price": 10.00,
+        "level": 3.2,
+        "imageUrl": "./app/assets/images/ColorPencil_Eggplant.png"
+    },
+    {
+        "productId": 5,
+        "productName": "Color Pencil Pepper",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Color Pencil",
+        "price": 10.00,
+        "level": 3.2,
+        "imageUrl": "./app/assets/images/ColorPencil_Pepper.png"
+    },
+    {
+        "productId": 6,
+        "productName": "Oil Pastel Cup",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Oil Pastel",
+        "price": 10.00,
+        "level": 2.8,
+        "imageUrl": "./app/assets/images/OilPastel_Cup.png"
+    },
+    {
+        "productId": 7,
+        "productName": "Oil Pastel Girl",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Oil Pastel",
+        "price": 10.00,
+        "level": 2.8,
+        "imageUrl": "./app/assets/images/OilPastel_Girl.png"
+    },
+    {
+        "productId": 8,
+        "productName": "Oil Pastel Mom",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Oil Pastel",
+        "price": 10.00,
+        "level": 2.8,
+        "imageUrl": "./app/assets/images/OilPastel_Mom.png"
+    },
+    {
+        "productId": 9,
+        "productName": "Oil Pastel Monkey",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Oil Pastel",
+        "price": 10.00,
+        "level": 2.7,
+        "imageUrl": "./app/assets/images/OilPastel_Monkey.png"
+    },
+    {
+        "productId": 10,
+        "productName": "Oil Pastel Tree",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Oil Pastel",
+        "price": 10.00,
+        "level": 2.6,
+        "imageUrl": "./app/assets/images/OilPastel_Tree.png"
+    },
+    {
+        "productId": 11,
+        "productName": "Oil Pastel Flower",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Oil Pastel",
+        "price": 10.00,
+        "level": 2.6,
+        "imageUrl": "./app/assets/images/OilPastel_Flower.png"
+    },
+    {
+        "productId": 12,
+        "productName": "Acrylic YellowDuck",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Acrylic",
+        "price": 10.00,
+        "level": 3.6,
+        "imageUrl": "./app/assets/images/Acrylic_YellowDuck.png"
+    },
+    {
+        "productId": 13,
+        "productName": "Acrylic Bird",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Acrylic",
+        "price": 10.00,
+        "level": 3.6,
+        "imageUrl": "./app/assets/images/Acrylic_BlueBird.png"
+    },
+    {
+        "productId": 14,
+        "productName": "Acrylic Parrot",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Acrylic",
+        "price": 10.00,
+        "level": 3.6,
+        "imageUrl": "./app/assets/images/Acrylic_Parrot.png"
+    },
+    {
+        "productId": 15,
+        "productName": "Acrylic Cats",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Acrylic",
+        "price": 10.00,
+        "level": 3.6,
+        "imageUrl": "./app/assets/images/Acrylic_Cats.png"
+    },
+    {
+        "productId": 16,
+        "productName": "Acrylic Cats",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Acrylic",
+        "price": 10.00,
+        "level": 3.6,
+        "imageUrl": "./app/assets/images/Acrylic_Cats2.png"
+    },
+    {
+        "productId": 17,
+        "productName": "Acrylic Dog",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Acrylic",
+        "price": 10.00,
+        "level": 3.6,
+        "imageUrl": "./app/assets/images/Acrylic_BrownDog.png"
+    },
+    {
+        "productId": 18,
+        "productName": "Acrylic Dog",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Acrylic",
+        "price": 10.00,
+        "level": 3.6,
+        "imageUrl": "./app/assets/images/Acrylic_BlueDog.png"
+    },
+    {
+        "productId": 19,
+        "productName": "Acrylic Penguin",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Acrylic",
+        "price": 10.00,
+        "level": 3.6,
+        "imageUrl": "./app/assets/images/Acrylic_Penguin.png"
+    },
+    {
+        "productId": 20,
+        "productName": "Acrylic Owl",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Acrylic",
+        "price": 10.00,
+        "level": 3.6,
+        "imageUrl": "./app/assets/images/Acrylic_Owl.png"
+    },
+    {
+        "productId": 21,
+        "productName": "Acrylic Snowman",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Acrylic",
+        "price": 10.00,
+        "level": 3.6,
+        "imageUrl": "./app/assets/images/Acrylic_Snowman.png"
+    },
+    {
+        "productId": 22,
+        "productName": "Acrylic Lady",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Acrylic",
+        "price": 10.00,
+        "level": 3.6,
+        "imageUrl": "./app/assets/images/Acrylic_Lady.png"
+    },
+    {
+        "productId": 23,
+        "productName": "Acrylic Starry Night",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Acrylic",
+        "price": 10.00,
+        "level": 3.6,
+        "imageUrl": "./app/assets/images/Acrylic_StarryNight.png"
+    },
+    {
+        "productId": 24,
+        "productName": "Acrylic Field",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Acrylic",
+        "price": 10.00,
+        "level": 3.6,
+        "imageUrl": "./app/assets/images/Acrylic_Field.png"
+    },
+    {
+        "productId": 25,
+        "productName": "Acrylic Flower",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Acrylic",
+        "price": 10.00,
+        "level": 3.6,
+        "imageUrl": "./app/assets/images/Acrylic_BlueFlower.png"
+    },
+    {
+        "productId": 26,
+        "productName": "Acrylic Flower",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Acrylic",
+        "price": 10.00,
+        "level": 3.6,
+        "imageUrl": "./app/assets/images/Acrylic_BrownFlower.png"
+    },
+
+    {
+        "productId": 27,
+        "productName": "Acrylic Flower",
+        "productCode": "",
+        "Date": "2016",
+        "description": "Acrylic",
+        "price": 10.00,
+        "level": 4.6,
+        "imageUrl": "./app/assets/images/Acrylic_WhiteFlower.png"
+    },
+    {
+        "productId": 28,
+        "productName": "Acrylic Tulip",
+        "productCode": "",
+        "Date": "2017",
+        "description": "Acrylic",
+        "price": 10.00,
+        "level": 4.6,
+        "imageUrl": "./app/assets/images/Acrylic_Tulip.png"
+    }
+]
