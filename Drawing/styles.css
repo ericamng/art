@@ -43,3 +43,7 @@ figcaption {
   padding-left: 20px;
   text-align: center;
 }
+
+footer {
+  clear: both;
+}
