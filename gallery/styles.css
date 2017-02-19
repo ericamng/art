@@ -1,0 +1,49 @@
+body {
+  background-color: lightgray;
+  text-align: center;
+  color: blue;
+  font-family: Georgia. "Times New Roman", serif;
+}
+
+.wrapper {
+  width: 1000px;
+  margin: 0px auto;
+}
+
+entry {
+  width: 220px;
+  float: left
+  margin: 10px;
+  height: 198px;
+  float: left;
+}
+
+figure {
+  display: block;
+  width: 202px;
+  height: 220x;
+  background-color: lightblue;
+  margin: 0px;
+  padding: 9px;
+  float: left;
+}
+
+figure img:hover {
+  border: 1px solid black;
+}
+
+figure img {
+  float: left;
+  width: 200px;
+  height: 210px;
+  border: 1px solid blue;
+}
+
+figcaption {
+  padding-left: 20px;
+  text-align: center;
+}
+
+footer {
+  clear: both;
+}
