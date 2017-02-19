@@ -1,0 +1,79 @@
+
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+  <link rel="stylesheet" href="./css/styles.css">
+  <script type="text/javascript" src="./lib/jquery.min.js"></script>
+  <script type="text/javascript" src="./lib/fadeslideshow.js"></script>
+
+  <title>Erica Art Gallery</title>
+  <script type="text/javascript">
+    var mygallery = new fadeSlideShow({
+      wrapperid: "ow", //ID of blank DIV on page to house Slideshow
+      dimensions: [500, 600], //width/height of gallery in pixels. Should reflect dimensions of largest image
+      imagearray: [
+        ["./images/Sharpie_Bird.png", "", "", ""],
+        ["./images/Sharpie_Giraffe.png", "", "", ""],
+        ["./images/ColorPencil_Cherry.png", "", "", ""],
+        ["./images/ColorPencil_Eggplant.png", "", "", ""],
+        ["./images/ColorPencil_Pepper.png", "", "", ""],
+        ["./images/OilPastel_Cup.png", "", "", ""],
+        ["./images/OilPastel_Lady.png", "", "", ""],
+        ["./images/OilPastel_Mom.png", "", "", ""],
+        ["./images/OilPastel_Monkey.png", "", "", ""],
+        ["./images/OilPastel_Tree.png", "", "", ""],
+        ["./images/OilPastel_Flower.png", "", "", ""],
+        ["./images/Acrylic_YellowDuck.png", "", "", ""],
+        ["./images/Acrylic_BlueBird.png", "", "", ""],
+        ["./images/Acrylic_Parrot.png", "", "", ""],
+        ["./images/Acrylic_Cats.png", "", "", ""],
+        ["./images/Acrylic_Cats2.png", "", "", ""],
+        ["./images/Acrylic_BrownDog.png", "", "", ""],
+        ["./images/Acrylic_BlueDog.png", "", "", ""],
+        ["./images/Acrylic_Parrot.png", "", "", ""],
+        ["./images/Acrylic_Cats.png", "", "", ""],
+        ["./images/Acrylic_Cats2.png", "", "", ""],
+        ["./images/Acrylic_BrownDog.png", "", "", ""],
+        ["./images/Acrylic_BlueDog.png", "", "", ""],
+        ["./images/Acrylic_Penguin.png", "", "", ""],
+        ["./images/Acrylic_Owl.png", "", "", ""],
+        ["./images/Acrylic_Snowman.png", "", "", ""],
+        ["./images/Acrylic_Lady.png", "", "", ""],
+        ["./images/Acrylic_StarryNight.png", "", "", ""],
+        ["./images/Acrylic_Field.png", "", "", ""],
+        ["./images/Acrylic_BlueFlower.png", "", "", ""],
+        ["./images/Acrylic_BrownFlower.png", "", "", ""],
+        ["./images/Acrylic_WhiteFlower.png", "", "", ""],
+        ["./images/Acrylic_Tulip.png", "", "", ""] //<--no trailing comma after very last image element!
+      ],
+      displaymode: {
+        type: 'auto',
+        pause: 2000,
+        cycles: 0,
+        wraparound: false
+      },
+      persist: false, //remember last viewed slide and recall within same session?
+      fadeduration: 3000, //transition duration (milliseconds)
+      descreveal: "ondemand",
+      togglerid: ""
+    })
+  </script>
+</head>
+
+<body>
+
+  <h1> Erica Ng's Art Gallary</h1>
+
+  <div class="wrapper">
+    <figure>
+      <div id="ow"></div>
+    </figure>
+  </div>
+
+<footer>
+  <p>© Erica Ng 2016-2017</p>
+</footer>
+
+</body>
+</html>
